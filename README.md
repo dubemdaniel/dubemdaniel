@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dubemdaniel
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning front end web development
+- 👀 I’m a web developer
+- 🌱 Still building my skills to the maximum
 
 
 <!---
