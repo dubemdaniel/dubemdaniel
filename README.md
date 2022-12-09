@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @dubemdaniel
 - 👀 I’m a web developer
 - 🌱 Still building my skills to the maximum
+- zap Fun fact I'm a student of ALX Software Engineering Programme
 
 
 <!---
