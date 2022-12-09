@@ -11,7 +11,9 @@
  
 - ✨ Fun fact I'm a student of ALX Software Engineering Programme
 
-
+</br>
+</br>
+</hr>
 ### 🛠 Tools and Frameworks
 
 Name | Badges
