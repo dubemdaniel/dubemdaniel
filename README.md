@@ -17,7 +17,6 @@
 </br>
 </br>
 </br>
-</br>
 <hr>
  🛠 Tools and Frameworks
  </br>
