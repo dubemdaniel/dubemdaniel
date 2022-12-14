@@ -12,7 +12,7 @@
  
 - ✨ Fun fact I'm a student of ALX Software Engineering Programme
 
-- 💞️ I’m looking to collaborate on Great and innovative projects with Great minds like you, Let's make a difference in our society
+- 💞️ I’m looking forward to collaborating on Great and innovative projects with Great minds like you, Let's make a difference in our society
 
 </br>
 </br>
