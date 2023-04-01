@@ -1,4 +1,4 @@
-<h2 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Daniel+Chukwudubem;You're+welcome+to+my+profile)](https://git.io/typing-svg)</h2>
+<h2+align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Daniel+Chukwudubem;You're+welcome+to+my+profile)](https://git.io/typing-svg)</h2>
 
 <h1 align="center">Hi 👋, I'm Daniel Chukwudubem.</h1>
 <h3 align="center">A Passionate Software Developer/Engineer from Nigeria.</h3>
