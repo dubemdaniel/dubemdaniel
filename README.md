@@ -6,11 +6,11 @@
 
 - 👋 Hi, I’m @dubemdaniel
  
-- 👀 I’m a Front-End Web Developer/Engineer
+- 👀 I’m a **Full-Stack Web Developer & Engineer**
 
-- 🌱 Still building my skills to maximum
+- 🌱 Always learning and building
  
-- ✨ Fun fact I'm a student of ALX Software Engineering Programme
+- ✨ Fun fact: I love turning complex problems into elegant, full-stack solutions
 
 - 💞️ I’m looking forward to collaborating on Great and innovative projects with Great minds like you, Let's make a difference in our society
 
