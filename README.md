@@ -17,9 +17,8 @@
 </br>
 </br>
 </br>
-<hr>
- 🛠 Tools and Frameworks
- </br>
+
+## 🛠 Tools and Frameworks
 
 Name | Badges
 --- | --- 
@@ -34,9 +33,8 @@ Name | Badges
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  
+<div align="left">
+ 
 ![](https://github-readme-stats.vercel.app/api?username=dubemdaniel&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dubemdaniel&theme=dark&hide_border=false)
