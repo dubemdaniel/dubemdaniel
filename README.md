@@ -33,7 +33,11 @@ Name | Badges
 ---
 
 ## 📊 GitHub Stats
-
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=dubemdaniel&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dubemdaniel&theme=dark&hide_border=false" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dubemdaniel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="200" />
+</p>
 
 
 ---
