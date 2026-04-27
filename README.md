@@ -33,17 +33,11 @@ Name | Badges
 ---
 
 ## 📊 GitHub Stats
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=dubemdaniel&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=dubemdaniel&theme=dark&hide_border=false" /></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dubemdaniel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=dubemdaniel&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dubemdaniel&theme=dark&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dubemdaniel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" />
+</p>
 
 
 ---
