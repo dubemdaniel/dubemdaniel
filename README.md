@@ -33,7 +33,7 @@ Name | Badges
 ---
 
 ## 📊 GitHub Stats
-<div align="left">
+<div align="right">
  
 ![](https://github-readme-stats.vercel.app/api?username=dubemdaniel&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
